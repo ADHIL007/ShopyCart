@@ -1,5 +1,8 @@
 # ShopyCart
-==It's a grocery purchasing website with AI integration for personalized recommendations. (under development ) Not fully functional==
+It's a grocery purchasing website with AI integration for personalized recommendations. (under development ) Not fully functional
+
+This project is Under development and the image credit goes to lorem picsum ,the images used in this project is completely for Experimental purpose
+
 
 steps 1-
 create client and server folder
@@ -40,7 +43,6 @@ and nodemon as dev dependency
 
 
 
-==This project is Under development and the image credit goes to lorem picsum ,the images used in this project is completely for Experimental purpose==
 
 
 
